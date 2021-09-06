@@ -8,7 +8,6 @@
 	2. Importing Modules
 	3. Basic Data Structures concepts like - DICTIONARY, LISTS etc
 
-
 + Features
 	1. Created Json file name "records" of the inventory from an excel file created by me using pandas.
 	2. Records file keep track of the inventory.
